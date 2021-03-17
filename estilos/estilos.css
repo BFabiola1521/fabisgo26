@@ -1,0 +1,17 @@
+body{
+    text-align: justify;
+    background: rgb(92, 166, 170); 
+    font-family: 'Redressed', cursive;
+}
+
+.titulo{
+    color:
+    font-size: 30px;
+    text-align: center;
+    background-color: white
+}
+p{
+    text-align: center;
+    color: black;
+    font-size: 25px;
+}
